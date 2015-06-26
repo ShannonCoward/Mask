@@ -10,31 +10,31 @@
 	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>123939654F8D96C06446FECF6F1C3703978621DB</key>
-		<string>https://github.com/ShannonArmon/SimpleApps.git</string>
+		<key>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</key>
+		<string>https://github.com/ShannonArmon/Mask.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Mask/Mask.xcodeproj/project.xcworkspace</string>
+	<string>Mask.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>123939654F8D96C06446FECF6F1C3703978621DB</key>
-		<string>../../..</string>
+		<key>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ShannonArmon/SimpleApps.git</string>
+	<string>https://github.com/ShannonArmon/Mask.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>123939654F8D96C06446FECF6F1C3703978621DB</string>
+	<string>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>123939654F8D96C06446FECF6F1C3703978621DB</string>
+			<string>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</string>
 			<key>IDESourceControlWCCName</key>
-			<string>SimpleApps</string>
+			<string>Mask</string>
 		</dict>
 	</array>
 </dict>
