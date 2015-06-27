@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>AF76A9C8-0BC7-49FC-B19A-1CAF07F53AB0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>Mask</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</key>
 		<string>https://github.com/ShannonArmon/Mask.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Mask.xcodeproj/project.xcworkspace</string>
+	<string>Mask.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>DD13A8FDC9C56177DA5D5E36946302CD34EF9B9A</key>
